@@ -2,3 +2,10 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/github-slideshow/v17/.wsuo
+/.vs/github-slideshow/FileContentIndex/read.lock
+/.vs/github-slideshow/FileContentIndex/7913fc48-c947-4514-87bd-577b6ed68f0e.vsidx
+/.vs/github-slideshow/FileContentIndex/ef33946f-bf46-413c-b716-05ab642d2b61.vsidx
